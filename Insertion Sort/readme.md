@@ -42,7 +42,9 @@ It is efficient for small datasets or nearly sorted data.
 ## 🎯 Visual Explanation
 
 <p align="center">
-  <img src="images/insertion_sort_example.png" width="600"/>
+  <img src="images/Screenshot 2025-06-06 102034.png" width="600"/>
+  <img src="images/Screenshot 2025-06-06 102133.png" width="600"/>
+  <img src="images/Screenshot 2025-06-06 102214.png" width="600"/>
 </p>
 
 <p align="center"><i>Figure: Step-by-step visualization of Insertion Sort</i></p>
