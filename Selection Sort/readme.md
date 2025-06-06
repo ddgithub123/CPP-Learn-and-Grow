@@ -40,7 +40,7 @@ It repeatedly selects the **minimum element** from the unsorted part and moves i
 ## 📸 Visualization
 
 <p align="center">
-  <img src="images/selection_sort_visual.png" width="600"/>
+  <img src="images/WhatsApp Image 2025-06-06 at 11.20.16_474f4a19.jpg" width="600"/>
 </p>
 
 <p align="center"><i>Figure: Selection Sort Step-by-Step Example</i></p>
